@@ -1,6 +1,6 @@
 # Weather App for Countries 
 
-Displays information about Country Flag ,Lat/Long ,Capital population and the weather for the capital city.
+Displays information about Country Flag ,Latitude/Longitude ,Capital population and the weather of capital city.
 
 ## Built with 
 
