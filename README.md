@@ -1,15 +1,19 @@
 # Countries App
 
-Displays information about countries and the weather for the capital city. Pages are statically generated. Search and filter through.
+Displays information about Country Flag ,Lat/Long ,Capital population and the weather for the capital city.
 
-## Built with
+## Built with 
 
 - nextjs (React)
 - TypeScript
 - Open Weather Api
 - Countries API
-- TailwindCSS
-- Framer Motion (animations)
+
+## Developed by Soumyashree G Deshpande
+
+The web application is built and run in the localhost.
+It is also tested with command ‘npm test --coverage’.
+Some of the Screen shots are displayed below as the interface of the Application.
 
 ![Countries Demo](/public/countries.gif)
 
